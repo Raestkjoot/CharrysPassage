@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34373df836e7f7d4cadea4654fa226f8, type: 3}
+  m_Name: Merlin_C2L2.2
+  m_EditorClassIdentifier: 
+  _text: Like the ferry navigating currents, we must navigate life's ebbs and flows.
+  _audio: {fileID: 8300000, guid: 35cb8d8fb45249b45ae14dd1faae08b3, type: 3}
+  _speaker: 2
+  _interlocutor: 4
+  _overridePortraitLeft: {fileID: 0}
+  _overridePortraitRight: {fileID: 0}
+  _overrideSpeakerName: 
+  _overridePlayTime: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba90b66818f65344aa5f19710867e74d, type: 3}
+  m_Name: _Trans_ZP_lines
+  m_EditorClassIdentifier: 
+  _dialogueSceneLines:
+  - {fileID: 11400000, guid: 648d65ee1f3aa264a90457c17770b336, type: 2}
+  - {fileID: 11400000, guid: 657ca4efacff4df4b9187f129c0306c3, type: 2}
+  - {fileID: 11400000, guid: b73d96427d679384885e01e9a0b53a55, type: 2}
+  - {fileID: 11400000, guid: 87e4551f850b0b54a8d6d4355a49bbaf, type: 2}
+  - {fileID: 11400000, guid: 173564bd74db6f74b962ff0999ba9e31, type: 2}
+  - {fileID: 11400000, guid: c4d1b516d7d72b84384d3b76ee6564a2, type: 2}
+  - {fileID: 11400000, guid: 9e20e13d067d4674a8babbd7763073fb, type: 2}
+  - {fileID: 11400000, guid: 32b935eb40637114fa9f2c9d999810c5, type: 2}
+  - {fileID: 11400000, guid: 06742a99dea7cfa4389ff955d5eb6ef9, type: 2}

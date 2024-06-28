@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba90b66818f65344aa5f19710867e74d, type: 3}
+  m_Name: _TransPM_Con
+  m_EditorClassIdentifier: 
+  _dialogueSceneLines:
+  - {fileID: 11400000, guid: ebce330701eeef24c8af395d6d779634, type: 2}
+  - {fileID: 11400000, guid: a1dc7d608c00c5f46afad8927121b9ba, type: 2}
+  - {fileID: 11400000, guid: 14f3b854972f43846b692ab07a121ed9, type: 2}
+  - {fileID: 11400000, guid: ba8a057feecf54442a9fa7947fd09c61, type: 2}
+  - {fileID: 11400000, guid: 9e966d4dfd1168d418bdaa8c96d8df19, type: 2}
+  - {fileID: 11400000, guid: 16987f89ee4f59e4bbbe1fb9ac66e85d, type: 2}
+  - {fileID: 11400000, guid: 5e55bad08fc60454283c5ec54c91747f, type: 2}

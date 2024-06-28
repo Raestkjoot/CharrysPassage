@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba90b66818f65344aa5f19710867e74d, type: 3}
+  m_Name: _Ziggy_Con 1.2
+  m_EditorClassIdentifier: 
+  _dialogueSceneLines:
+  - {fileID: 11400000, guid: 2072859ece829d14a82525524ef033ff, type: 2}
+  - {fileID: 11400000, guid: 5c3aca4fc8f87154b96b0da3dc11185c, type: 2}
+  - {fileID: 11400000, guid: a7bc88082a60fa3409f33477fb0399a0, type: 2}
+  - {fileID: 11400000, guid: 0d51393d745d5b841834a7f56d7384e8, type: 2}

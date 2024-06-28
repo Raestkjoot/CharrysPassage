@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0f29a03b48a3af43857219c91d53f24, type: 3}
+  m_Name: InSituSeq_Zig0
+  m_EditorClassIdentifier: 
+  _dialogueInSituLines:
+  - {fileID: 11400000, guid: 2ad96aedd905df24a98b1b8dd09c2e18, type: 2}
+  - {fileID: 11400000, guid: 634d829c561c6704b95b5a505bf1f9ef, type: 2}
+  - {fileID: 11400000, guid: a2ee2e66715dcaf43a5bd4d3cc9c147e, type: 2}

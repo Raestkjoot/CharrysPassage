@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba90b66818f65344aa5f19710867e74d, type: 3}
+  m_Name: _Merlin_Con_1
+  m_EditorClassIdentifier: 
+  _dialogueSceneLines:
+  - {fileID: 11400000, guid: 14bcb89bef3f57e46adc300070ff5196, type: 2}
+  - {fileID: 11400000, guid: c2671533deee9a24e860657af4258cd3, type: 2}
+  - {fileID: 11400000, guid: ac1a92fc500e81945b7e6bb9d23d4fe8, type: 2}
+  - {fileID: 11400000, guid: e16f619173a96ac40aebb1be0fb87e40, type: 2}
+  - {fileID: 11400000, guid: 98ef55d24a882284d9549f1daa44c2c3, type: 2}
+  - {fileID: 11400000, guid: 90a55dbdf82a3c1418bac95305087fc8, type: 2}
+  - {fileID: 11400000, guid: b55b126d264c07d4fbb7ad73b50af929, type: 2}
+  - {fileID: 11400000, guid: f4467794c1accb9469462a3a4d1a0b7c, type: 2}
+  - {fileID: 11400000, guid: dd0e2a660195b5b46a8e3aca80eeb16e, type: 2}
+  - {fileID: 11400000, guid: fd8c1b8dc85831f4880c58ff59de4c3e, type: 2}
+  - {fileID: 11400000, guid: 06899bfeb7bfe894dbadc594fc914137, type: 2}
+  - {fileID: 11400000, guid: 9ab769a7f4bcd86469a06ba6116b5444, type: 2}
+  - {fileID: 11400000, guid: dd1a91051421e5b45ab624f22bf87c12, type: 2}
+  - {fileID: 11400000, guid: 153d7a7efc9934548997185b46ce2a40, type: 2}
+  - {fileID: 11400000, guid: 25d240a32824cf442b43be340b7af1cb, type: 2}
+  - {fileID: 11400000, guid: 8f05bd290b2a09341abd1f3a6b16774b, type: 2}
+  - {fileID: 11400000, guid: 31679e81cc5c4644592602300c16bcc5, type: 2}
+  - {fileID: 11400000, guid: d05d7d42a8727194a970aed1efcf8a7d, type: 2}
+  - {fileID: 11400000, guid: d3912697845f926409d99a1a9d1f0421, type: 2}
+  - {fileID: 11400000, guid: 79eb433537d7a534b884cb046e166391, type: 2}
+  - {fileID: 11400000, guid: 9b33708b3c4340f4a9f26c5ea7fa149c, type: 2}
+  - {fileID: 11400000, guid: 23cf19f7886cf904b84bef8118ff0164, type: 2}
+  - {fileID: 11400000, guid: 256c8865d7f0cc64a9e6cb0881e33ff5, type: 2}
+  - {fileID: 11400000, guid: 7c6c85028a2c9f141a35f9db7544f71f, type: 2}
+  - {fileID: 11400000, guid: 353fe4ec0bde71e45bd5fa455c7a20c4, type: 2}
+  - {fileID: 11400000, guid: f38091504a37cbd48bf67a9e9906a479, type: 2}
+  - {fileID: 11400000, guid: b7f87e14d6656a8499cbf01870ee4149, type: 2}
+  - {fileID: 11400000, guid: 061147e0a5987fa45a6a64f2b7772c28, type: 2}
+  - {fileID: 11400000, guid: 3c040bb101fa45d408ce2b4e98d25b85, type: 2}
+  - {fileID: 11400000, guid: 5e0dd658feff14741b8f259aa7c688a0, type: 2}
+  - {fileID: 11400000, guid: ea3b665800acf38419d740bbba14778b, type: 2}

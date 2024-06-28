@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34373df836e7f7d4cadea4654fa226f8, type: 3}
+  m_Name: PreAlphaEnd_L2
+  m_EditorClassIdentifier: 
+  _text: 'There is nothing but darkness beyond this point...
+
+
+    ...Press alt-f4
+    to quit. We haven''t really had time to add an exit button yet.'
+  _audio: {fileID: 0}
+  _speaker: 2
+  _interlocutor: 5
+  _overridePortraitLeft: {fileID: 21300000, guid: a67c230aa67584647ab97e973992d96a, type: 3}
+  _overridePortraitRight: {fileID: 0}
+  _overrideSpeakerName: 
+  _overridePlayTime: 3

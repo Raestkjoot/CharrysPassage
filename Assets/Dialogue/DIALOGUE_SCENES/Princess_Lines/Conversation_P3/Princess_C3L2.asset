@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34373df836e7f7d4cadea4654fa226f8, type: 3}
+  m_Name: Princess_C3L2
+  m_EditorClassIdentifier: 
+  _text: "But OF COURSE! We mustn't be foolish and let those in need needlessly suffer!
+    We must always lend anyone a helping hand if possible! No matter how abhorrent
+    they may sometimes look! No matter how many times they might say: \u201CHey,
+    leave me alone you crazy lady! I don\u2019t need your goddamn help!\u201D\r\n"
+  _audio: {fileID: 8300000, guid: 82f0ff3e8818bd64a8dd945bc9c2fb7c, type: 3}
+  _speaker: 2
+  _interlocutor: 3
+  _overridePortraitLeft: {fileID: 0}
+  _overridePortraitRight: {fileID: 0}
+  _overrideSpeakerName: 
+  _overridePlayTime: 0

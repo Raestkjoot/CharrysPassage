@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34373df836e7f7d4cadea4654fa226f8, type: 3}
+  m_Name: Ziggy_C2L13.1
+  m_EditorClassIdentifier: 
+  _text: "*Sigh*\u2026okay. Letting you off here wouldn\u2019t be the weirdest thing
+    that happened today.\r.."
+  _audio: {fileID: 8300000, guid: 4b14b5c6fcb0a8044a592f6101b79138, type: 3}
+  _speaker: 1
+  _interlocutor: 2
+  _overridePortraitLeft: {fileID: 0}
+  _overridePortraitRight: {fileID: 0}
+  _overrideSpeakerName: 
+  _overridePlayTime: 0

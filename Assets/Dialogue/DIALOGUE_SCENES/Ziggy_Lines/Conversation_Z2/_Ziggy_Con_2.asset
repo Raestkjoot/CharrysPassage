@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba90b66818f65344aa5f19710867e74d, type: 3}
+  m_Name: _Ziggy_Con_2
+  m_EditorClassIdentifier: 
+  _dialogueSceneLines:
+  - {fileID: 11400000, guid: faf576af8390d5f48ad784cdf6019162, type: 2}
+  - {fileID: 11400000, guid: 9c509a37b0cf97645b86b35d4544d47d, type: 2}
+  - {fileID: 11400000, guid: d18a23772e85b764b9769049047b1abe, type: 2}
+  - {fileID: 11400000, guid: 7ad6aacfe28e0454c85ceb0174883cdf, type: 2}
+  - {fileID: 11400000, guid: 51763a39df3e98749b04b7713a2426de, type: 2}
+  - {fileID: 11400000, guid: e2f79f4dc142b5745afc6b211bce98ca, type: 2}
+  - {fileID: 11400000, guid: 497dae5da6528b54280b7dad2f810c0f, type: 2}
+  - {fileID: 11400000, guid: 80042cba51d77f04e9491bb68af869b5, type: 2}
+  - {fileID: 11400000, guid: 0c651480492d9f345a2caecb4f73b902, type: 2}
+  - {fileID: 11400000, guid: 67dcc9b64c0bd76408fa58c69dedb645, type: 2}
+  - {fileID: 11400000, guid: ef63ab91d99c7ed4e9a69b665b50f1ed, type: 2}
+  - {fileID: 11400000, guid: 3dcb0af9a0e3d194d9e3c128beaf9cae, type: 2}
+  - {fileID: 11400000, guid: c96e595730f09c34ebb5c80df0ad5fda, type: 2}
+  - {fileID: 11400000, guid: 13926ec99f492584693cf401fa37735a, type: 2}

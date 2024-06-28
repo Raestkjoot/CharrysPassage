@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba90b66818f65344aa5f19710867e74d, type: 3}
+  m_Name: SceneSeq_Zig0
+  m_EditorClassIdentifier: 
+  _dialogueSceneLines:
+  - {fileID: 11400000, guid: 57b9bc2a54988d74ba3ed72d059fe345, type: 2}
+  - {fileID: 11400000, guid: b08c4251bb678c34aacb1a463a348838, type: 2}
+  - {fileID: 11400000, guid: 0a3cac800e08d4b4c865ff2cb7cb8a22, type: 2}
+  - {fileID: 11400000, guid: 828533fea5884e74c9d513c49c6d697d, type: 2}
