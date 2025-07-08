@@ -1,5 +1,6 @@
 # CharonCrazyTaxi
 Game made for the course *Game World Design (2024)* at IT University of Copenhagen.
+[Play on itch.io](https://goumdree.itch.io/charrys-passage-wake-of-souls)
 
 Charry’s Passage: Wake of Souls is an isometric narrative game with endless runner-esque gameplay. 
 You play as Charry, the ferrymaster of the underworld, and assist the souls you come across understand the life lessons they failed to learn while living. The river you sail on shifts to reflect these souls as Charry gives them a ride.

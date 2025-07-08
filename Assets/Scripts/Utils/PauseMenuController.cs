@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 using UnityEngine;
 
-public class PauseMenuController : MonoBehaviour
+public class PauseMenuController : PersistentSingleton<PauseMenuController>
 {
 
-    void Awake()
+    protected override void Awake()
     {
+        base.Awake();
         GameStateManager.Instance.OnGameStateChanged += OnGameStateChanged;
 
         OnGameStateChanged(GameStateManager.Instance.CurrentGameState);

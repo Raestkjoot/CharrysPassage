@@ -3968,7 +3968,7 @@ MonoBehaviour:
   _newAssetsPrefab: {fileID: 4346679975336468730, guid: 2fc51c990619ac2439e1943bdd702277, type: 3}
   _newWaterMaterial: {fileID: 2100000, guid: 6c93a92499f2b704cbeefd25ca454355, type: 2}
   _waterScaleY: 57.555
-  _newLandTextureTop: {fileID: 2800000, guid: dd76fcb7605772f44b32a877653a8d24, type: 3}
+  _newLandTextureTop: {fileID: 2800000, guid: 8c480d3f13db939408f5dad67978a403, type: 3}
   _newLandTextureBot: {fileID: 2800000, guid: cf807a548bfec474e89b9031690baa86, type: 3}
   _destroyPreviousAssetsTimer: 15
 --- !u!1 &8129203994772480542

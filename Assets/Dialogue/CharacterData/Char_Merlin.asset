@@ -15,6 +15,6 @@ MonoBehaviour:
   _name: Merlin
   _scenePortrait: {fileID: 21300000, guid: f6f9e05aeb38e5844a708bc7c239f353, type: 3}
   _inSituPortrait: {fileID: 21300000, guid: f6f9e05aeb38e5844a708bc7c239f353, type: 3}
-  _textColor: {r: 0.21946974, g: 0.15819688, b: 0.745283, a: 0}
+  _textColor: {r: 0.17880027, g: 0.26415092, b: 0.09344962, a: 0}
   _dialogueSceneBox: {fileID: 0}
   _dialogueInSituBox: {fileID: 0}

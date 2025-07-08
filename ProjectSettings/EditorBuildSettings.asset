@@ -12,8 +12,8 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: b403099da0f46ce458038434f2fe225c
   - enabled: 1
-    path: Assets/Scenes/IntroVignettes.unity
-    guid: e957028a86d113045b280a09bce8a724
+    path: Assets/Scenes/ShinVignette.unity
+    guid: c122508abfa4cb04696d468225c89140
   - enabled: 1
     path: Assets/Scenes/Levels/MainRiver.unity
     guid: 22f729d405f20a94dabc87c3274ed740

@@ -14,7 +14,8 @@ public class DialogueSceneBox : MonoBehaviour
     [SerializeField] private TextMeshProUGUI _RnameText;
     [SerializeField] private GameObject _textBoxLeft;
     [SerializeField] private GameObject _textBoxRight;
-    [SerializeField] private GameObject _nextIndicator;
+    [SerializeField] private GameObject _nextIndicatorL;
+    [SerializeField] private GameObject _nextIndicatorR;
 
     // Controls how much faster the text is compared to the audio. This lets the text be a little ahead of the audio.
     private float _textLeadTime = 1.25f;
@@ -29,9 +30,9 @@ public class DialogueSceneBox : MonoBehaviour
     private string _curText;
     private TextMeshProUGUI _curRollingtext;
     private CharEnumerator _curTextEnumerator;
-    
 
-    public void Display(string text, float playTime, SpeakerSide speakerSide, 
+
+    public void Display(string text, float playTime, SpeakerSide speakerSide,
         string speakerName, Sprite leftPortrait, Sprite rightPortrait, Color speakerColor)
     {
         gameObject.SetActive(true);
@@ -48,14 +49,14 @@ public class DialogueSceneBox : MonoBehaviour
                 _LnameText.text = speakerName;
                 _LnameText.color = speakerColor;
                 _curRollingtext = _speakerLeftText;
-            break;
+                break;
             // TODO: Would be nice to have a SpeakerSide.Right and then a new
             //       middle dialogue box for SpeakerSide.None/default
             case SpeakerSide.Right:
                 _RnameText.text = speakerName;
                 _RnameText.color = speakerColor;
                 _curRollingtext = _speakerRightText;
-            break;
+                break;
         }
         _curRollingtext.text = "";
 
@@ -93,8 +94,10 @@ public class DialogueSceneBox : MonoBehaviour
 
         _leftPortrait.sprite = leftPortrait;
         _rightPortrait.sprite = rightPortrait;
-        
-        _nextIndicator.SetActive(false);
+
+        _nextIndicatorL.SetActive(false);
+        _nextIndicatorR.SetActive(false);
+        //_nextIndicator.SetActive(false);
         _textWaitTime = playTime / (text.Length * _textLeadTime);
         _curText = text;
         _curTextEnumerator = _curText.GetEnumerator();
@@ -143,7 +146,7 @@ public class DialogueSceneBox : MonoBehaviour
             // Check for text formatting
             if (c == '<')
             {
-                while( _curTextEnumerator.MoveNext())
+                while (_curTextEnumerator.MoveNext())
                 {
                     c = _curTextEnumerator.Current;
                     _curRollingtext.text += c;
@@ -163,7 +166,15 @@ public class DialogueSceneBox : MonoBehaviour
 
     private void TextRollingDone()
     {
-        _nextIndicator.SetActive(true);
+        if (_curSpeakerSide == SpeakerSide.Left)
+        {
+            _nextIndicatorL.SetActive(true);
+        }
+        else
+        {
+            _nextIndicatorR.SetActive(true);
+        }
+
         _isRollingText = false;
     }
 
